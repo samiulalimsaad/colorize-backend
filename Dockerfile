@@ -1,5 +1,5 @@
 
-FROM openfabric/openfabric-pyenv:0.1.6-3.8
+FROM test:sdk
 
 
 RUN mkdir image-coloring
